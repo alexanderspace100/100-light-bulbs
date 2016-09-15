@@ -13,8 +13,8 @@ Each bulb is numbered consecutively from 1 to 100. So is each person.
 
 Person No. 1 enters the room, switches on every bulb, and exits.
 Person No. 2 enters and flips the switch on every second bulb (turning off bulbs 2, 4, 6...).
-Person No. 3 enters and flips the switch on every third bulb 
-changing the state on bulbs 3, 6, 9...).
+Person No. 3 enters and flips the switch on every third bulb
+changing the state on bulbs 3, 6, 9....).
 
 
 How many of the light bulbs are illuminated after the 100th person has passed through
